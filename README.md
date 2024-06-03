@@ -1,6 +1,7 @@
 # sticky-notes-app with React
 ## Overview
-This project concerns a sticky note app that the user can utilise to memorise their To-Do's, as part of a project of my web development bootcamp.
+This project concerns a sticky note app as part of a project of my web development bootcamp.
+The user can utilise to memorise their To-Do's, add as many post-it notes as they like, and delete them when completed.
 ### Directions 
 - Download the src and public folders.
 - Open command prompt or powershell and navigate to a folder of interest using the change directory (cd) command.
