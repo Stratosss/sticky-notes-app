@@ -10,7 +10,7 @@ The user can utilise to memorise their To-Do's, add as many post-it notes as the
 - In powershell or command prompt, navigate in the "my-app" folder by using the "cd" command.
 - Type `npm start` to start the React project. A new browser window should pop up and display the Sticky Notes App.
 ### Remarks
-you might need to execute the following commands as well:
+You might need to execute the following commands as well:
 `npm install @material-ui/icons`
 `npm install @material-ui/core`
 
