@@ -10,5 +10,5 @@ The user can utilise to memorise their To-Do's, add as many post-it notes as the
 - In powershell or command prompt, navigate in the "my-app" folder by using the "cd" command.
 - Type `npm start` to start the React project. A new browser window should pop up and display the Sticky Notes App.
 
-![1](https://github.com/Stratosss/sticky-notes-app/assets/157527268/355bb851-f5c7-4401-9b4c-5114fca4bbaa)
-![2](https://github.com/Stratosss/sticky-notes-app/assets/157527268/820f41bd-3379-456c-b255-83941e235d28)
+![1](https://github.com/Stratosss/sticky-notes-app-with-React/assets/157527268/73efa648-db44-46fe-b628-4423db0f65c1)
+![2](https://github.com/Stratosss/sticky-notes-app-with-React/assets/157527268/a9eafa4f-01ee-4751-a072-38ae803477a5)
