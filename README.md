@@ -11,4 +11,5 @@ The user can utilise to memorise their To-Do's, add as many post-it notes as the
 - Type `npm start` to start the React project. A new browser window should pop up and display the Sticky Notes App.
 
 ![1](https://github.com/Stratosss/sticky-notes-app-with-React/assets/157527268/73efa648-db44-46fe-b628-4423db0f65c1)
-![2](https://github.com/Stratosss/sticky-notes-app-with-React/assets/157527268/a9eafa4f-01ee-4751-a072-38ae803477a5)
+![2](https://github.com/Stratosss/sticky-notes-app-with-React/assets/157527268/98e0a556-68ed-4ff9-b728-757b143b8f40)
+
