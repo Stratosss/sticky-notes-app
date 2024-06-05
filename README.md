@@ -9,8 +9,8 @@ The user can utilise to memorise their To-Do's, add as many post-it notes as the
 - In that newly created folder delete the src and public folders and move the previously downloaded folders in.
 - In powershell or command prompt, navigate in the "my-app" folder by using the "cd" command.
 - In there execute the following commands:
-- -`npm install @mui/material @emotion/react @emotion/styled`
-- `npm install @mui/icons-material`
+  - `npm install @mui/material @emotion/react @emotion/styled`
+  - `npm install @mui/icons-material`
 - Type `npm start` to start the React project. A new browser window should pop up and display the Sticky Notes App.
 
 
